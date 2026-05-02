@@ -1,4 +1,5 @@
 using System;
+
 namespace ConnectFour
 {
     class Program
