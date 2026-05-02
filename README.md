@@ -1,4 +1,4 @@
-# dizzy091004-Connect-Four-
+
 using System;
 
 namespace ConnectFour
